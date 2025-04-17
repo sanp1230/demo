@@ -36,4 +36,4 @@ The project structure is organized as follows:
 - `src/components/` - React components
 - `src/assets/` - Static assets
 - `src/App.tsx` - Main application component
-- `src/index.css` - Global styles and Tailwind CSS configuration 
+- `src/index.css` - Global styles and Tailwind CSS configuration
